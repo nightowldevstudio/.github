@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Night Owl Banner Image -->
-  <img src="../assets/night-owl-banner.jpg" alt="Night Owl Banner" width="100%" style="border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/nightowldevstudio/.github/main/assets/night-owl-banner.jpg" alt="Night Owl Banner" width="100%" style="border-radius: 8px;" />
 
   <br /><br />
 
